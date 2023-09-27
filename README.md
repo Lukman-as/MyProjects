@@ -1,3 +1,3 @@
 # Beginning
-This contains all projects I worked on while learning programming
+This Git repository contains all projects I worked on while learning programming
 
